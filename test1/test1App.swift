@@ -1,5 +1,4 @@
 
-
 import SwiftUI
 
 @main
@@ -12,4 +11,8 @@ struct test1App: App {
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
+    
+    
+    
+    
 }
