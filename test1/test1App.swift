@@ -1,9 +1,4 @@
-//
-//  test1App.swift
-//  test1
-//
-//  Created by David Murphy on 12/7/22.
-//
+
 
 import SwiftUI
 
